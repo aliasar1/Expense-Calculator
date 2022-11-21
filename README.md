@@ -1,16 +1,35 @@
-# expense_app
+# Expense Calculator 💵 
 
-A new Flutter project.
+## Overview
+This application will compute your expenses and display weekly expense as a bar on UI. You can also preview your expense cards individually.
+Apart from this the total sum of expenses will be displayed on bars according to week days. Features for adding and deleting expense transactions are added.
 
-## Getting Started
+## Screenshots 📷
 
-This project is a starting point for a Flutter application.
+### This is the main screen when nothing is added.
+![image](https://user-images.githubusercontent.com/74453775/203010737-c59a7dce-aeec-4a41-9fb0-12d5c3ae2b1a.png)
 
-A few resources to get you started if this is your first Flutter project:
+### This is the bottom sheet to add new expense transaction.
+![image](https://user-images.githubusercontent.com/74453775/203010944-bd7094da-7248-4c34-9189-570aba1da0e0.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### UI will be change once new expense transaction is added.
+![image](https://user-images.githubusercontent.com/74453775/203011015-678511cb-58dd-40a0-bb13-1be7fe85aa3e.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Main page when multiple expenses are added for different dates of current week.
+![image](https://user-images.githubusercontent.com/74453775/203011225-7f596b3c-dd14-4785-9f1b-4c1f88ffd526.png)
+
+### To use this app follow below instructions:
+
+1. Clone this app using below syntax:
+
+   > git clone https://github.com/aliasar1/Expense-Calculator
+
+2. After cloning install packages using below syntax:
+   > flutter pub get
+
+Above command will install all the necessary packages.
+
+3. Run the app on your mobile emulator using below command:
+   > flutter run
+
+### **_Thank you. Happy Coding! 😃_**
