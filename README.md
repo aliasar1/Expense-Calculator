@@ -2,7 +2,7 @@
 
 ## Overview
 This application will compute your expenses and display weekly expense as a bar on UI. You can also preview your expense cards individually.
-Apart from this the total sum of expenses will be displayed on bars according to week days. Features for adding and deleted expense transactions are added.
+Apart from this the total sum of expenses will be displayed on bars according to week days. Features for adding and deleting expense transactions are added.
 
 ## Screenshots 📷
 
